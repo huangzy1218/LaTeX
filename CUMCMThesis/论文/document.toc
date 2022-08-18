@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {一、}问题重述}{2}{section.1}%
+\contentsline {subsection}{\numberline {1\,.\,1}问题背景}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1\,.\,2}问题重述}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {二、}模型的假设}{2}{section.2}%
+\contentsline {section}{\numberline {三、}符号说明}{2}{section.3}%
+\contentsline {section}{\numberline {四、}模型的建立与求解}{3}{section.4}%
+\contentsline {subsection}{\numberline {4\,.\,1}问题一模型的建立与求解}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4\,.\,2}问题二模型的建立与求解}{3}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4\,.\,3}问题三模型的建立与求解}{3}{subsection.4.3}%
+\contentsline {section}{\numberline {五、}模型的检验}{3}{section.5}%
+\contentsline {section}{\numberline {六、}模型的评价}{3}{section.6}%
+\contentsline {subsection}{\numberline {6\,.\,1}模型的优点}{3}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6\,.\,2}模型的缺点}{3}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6\,.\,3}模型的推广}{3}{subsection.6.3}%
+\contentsline {section}{参考文献}{3}{section*.2}%
+\contentsline {section}{附录 \numberline {A}排队算法--matlab 源程序}{3}{appendix.a.A}%
